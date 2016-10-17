@@ -11,7 +11,7 @@ preferences, menus, data structures.
 If this is your first time
 doing game programming in Haskell, I would recommend this sequence:
 
-* [SDL 1.2](SDL/SDL » SDL1)
+* [SDL 1.2](SDL/SDL » SDL1.md)
 * [Input hardware: wiimotes](Hardware » Wiimote)
 * [[Game Programming Concepts]]
 
